@@ -5,9 +5,9 @@ int main(){
     char estado = 'B';
     char codigo[5] = "B01"; 
     char cidade[30] = "Manaus";
-    int populacao = 2064000.0;
-    float km = 11.401092;
-    float PIB =  2026.0; 
+    int populacao = 2064;
+    float km = 114.01;
+    float PIB =   1032.81 ; 
     int quantidade_de_pontos_turisticos = 9;
 
     printf("CARTA 02\n");
